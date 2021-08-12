@@ -25,17 +25,17 @@ Isso representa uma perda de milhões para a empresa. ***O que a empresa precisa
 - `plotly.express` -> Criação de gráficos a partir de base de dados
 <h4><p align="center">Gênero x Churn</p></h4>
 <p align="center">
-  <img src="img/2/genero-vs-churn.PNG" width="75%">
+  <img src="img/2/genero-vs-churn.PNG" width="65%">
 </p>
 
 <h4><p align="center">Meses como Cliente x Churn</p></h4>
-<p align="center"><img src="img/2/meses-vs-churn.PNG" width="75%"></p>
+<p align="center"><img src="img/2/meses-vs-churn.PNG" width="65%"></p>
 
 <h4><p align="center">Valor Mensal x Churn</p></h4>
-<p align="center"><img src="img/2/valormes-vs-churn.PNG" width="75%"></p>
+<p align="center"><img src="img/2/valormes-vs-churn.PNG" width="65%"></p>
 
 <h4><p align="center">Total Gasto x Churn</p></h4>
-<p align="center"><img src="img/2/total-gast-vs-churn.PNG" width="75%"></p>
+<p align="center"><img src="img/2/total-gast-vs-churn.PNG" width="65%"></p>
 
 ## 3 - Análise de Dados e Previsão de Vendas
 ### Desafio
@@ -78,3 +78,6 @@ Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cot
 ### Bibliotecas Utilizadas
 - `selenium > webdriver`
 - `selenium.webdriver.common.keys > Keys`
+
+<h4><p align="center">Tabela criada após a extração e tratamento de dados</p></h4>
+<p align="center"><img src="img/4/tabela-tratada.PNG" width="70%"></p>
