@@ -23,6 +23,19 @@ Isso representa uma perda de milhões para a empresa. ***O que a empresa precisa
 ### Bibliotecas Utilizadas
 - `pandas` -> Permite a interação com arquivos e planilhas
 - `plotly.express` -> Criação de gráficos a partir de base de dados
+<h4><p align="center">Gênero x Churn</p></h4>
+<p align="center">
+  <img src="img/2/genero-vs-churn.PNG" width="75%">
+</p>
+
+<h4><p align="center">Meses como Cliente x Churn</p></h4>
+<p align="center"><img src="img/2/meses-vs-churn.PNG" width="75%"></p>
+
+<h4><p align="center">Valor Mensal x Churn</p></h4>
+<p align="center"><img src="img/2/valormes-vs-churn.PNG" width="75%"></p>
+
+<h4><p align="center">Total Gasto x Churn</p></h4>
+<p align="center"><img src="img/2/total-gast-vs-churn.PNG" width="75%"></p>
 
 ## 3 - Análise de Dados e Previsão de Vendas
 ### Desafio
@@ -38,6 +51,18 @@ A empresa está investindo de maneira correta?***
 - `sklearn.linear_model > LinearRegression`
 - `sklearn.ensemble > RandomForestRegressor`
 - `sklearn > metrics`
+
+<h4><p align="center">Criação de tabela a partir de base de dados</p></h4>
+<p align="center"><img src="img/3/tabela-vendas.PNG" width="25%"></p>
+
+<h4><p align="center">Gráfico de Vendas</p></h4>
+<p align="center"><img src="img/3/grafico-vendas.PNG" width="50%"></p>
+
+<h4><p align="center">Análise Estatística do Coeficiente de Precisão</p></h4>
+<p align="center"><img src="img/3/analise-precisao-vendas.PNG" width="30%"></p>
+
+<h4><p align="center">Gráfico de Previsão das Vendas</p></h4>
+<p align="center"><img src="img/3/previsao-vendas.PNG" width="35%"></p>
 
 ## 4 - Extração de dados da WEB e conversão de moedas
 ### Desafio
