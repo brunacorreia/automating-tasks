@@ -17,9 +17,10 @@ Todos os dias o nosso sistema atualiza as vendas do dia anterior. O seu trabalho
 ## 2 - Limpeza e análise de base de dados
 ### Desafio
 Você trabalha em uma empresa de telecom e tem clientes de vários serviços diferentes, entre os principais: internet e telefone.
-O problema é que, analisando o histórico dos clientes dos últimos anos, você percebeu que a empresa está com Churn de mais de 26% dos clientes.
+O problema é que, analisando o histórico dos clientes dos últimos anos, você percebeu que a empresa está com Churn* de mais de 26% dos clientes.
 Isso representa uma perda de milhões para a empresa. ***O que a empresa precisa fazer para resolver isso?***
 
+>***Churn:*** *métrica que indica o quanto sua empresa perdeu de receita ou clientes.*
 ### Bibliotecas Utilizadas
 - `pandas` -> Permite a interação com arquivos e planilhas
 - `plotly.express` -> Criação de gráficos a partir de base de dados
