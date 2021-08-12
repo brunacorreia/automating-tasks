@@ -82,3 +82,5 @@ Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cot
 
 <h4><p align="center">Tabela criada após a extração e tratamento de dados</p></h4>
 <p align="center"><img src="img/4/tabela-tratada.PNG" width="70%"></p>
+
+<h6><p align="center">Curso de Automação promovido por<a href="https://www.hashtagtreinamentos.com/"> Hashtag Treinamentos®<a/>.</p></h6>
